@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-    float: left;
-    margin:0 0 30px 0;
-    padding: 5px 0 0 0 ;
     width: 100%;
+    height: auto;
+    vertical-align:middle;
+    border: 0;
     background: url("https://icanfreaku.github.io/newblog/img/cover.jpg") no-repeat bottom center;
 
     .slideshow {
@@ -28,7 +28,7 @@
       -webkit-margin-end: 0px;
       font-weight: bold;
   }
-  
+
 .carousel-caption {
     position: absolute;
     right: 15%;
