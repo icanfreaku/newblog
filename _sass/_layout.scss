@@ -8,6 +8,10 @@
     width: 100%;
     background: url("https://icanfreaku.github.io/newblog/img/cover.jpg") no-repeat bottom center;
 
+    .slideshow {
+    margin-top: 15px
+  }
+  
     .menu-icon {
         display: none;
         @include media-query($on-palm) {
