@@ -4,7 +4,7 @@
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: #515865;
+    background: url("https://icanfreaku.github.io/newblog/img/cover.jpg") no-repeat bottom center;
 
     .menu-icon {
         display: none;
@@ -77,7 +77,7 @@
         top: 0;
         left: -200px;
         z-index: 7;
-        background-color: #515865;
+        background: url("https://icanfreaku.github.io/newblog/img/cover.jpg") no-repeat bottom center;
 
         .trigger {
             clear: both;
